@@ -1,0 +1,5 @@
+streamlit>=1.30.0
+pandas>=2.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+# biosteam>=2.36.0  # Descomentar si el cuaderno incluye simulaciones de procesos
